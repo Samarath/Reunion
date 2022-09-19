@@ -1,0 +1,21 @@
+.searchbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.searchbar p{
+    font-size: 30px;
+}
+
+.searchbar input{
+    color: gray;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid gray;
+}
+
+/* .search_text{
+    margin: 0 100px;
+} */

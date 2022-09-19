@@ -1,0 +1,61 @@
+.cards{
+    width: 350px;
+    margin: 20px;
+    background-color: white;
+    color: gray;
+
+}
+
+.cards img{
+    width: 350px;
+    /* height: 200px; */
+}
+
+.cards .cards_info{
+    padding: 10px 20px;
+}
+
+.cards .house_rent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cards .house_rent span{
+    font-size: 20px;
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+.cards .house_rent p{
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+.cards .house_loc {
+    border-bottom: 1px solid silver;
+}
+
+.cards .house_loc h4{
+    color: black;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.cards .house_loc p{
+    margin: 5;
+}
+
+.cards_info .house_info{
+    margin: 5px 0;
+    /* display: flex; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+}
+
+.cards .house_info span{
+    font-size: 12px;
+    margin: 5px;
+
+}
